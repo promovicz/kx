@@ -6,6 +6,8 @@ K is for people who want to write programs that are as short and dense as math f
 
 This project is a set of extensions for K systems implementing the `ktye/i:+/k.h` interface.
 
+License: public domain (until further notice).
+
 ### Bindings
 
  * terminal
@@ -13,3 +15,4 @@ This project is a set of extensions for K systems implementing the `ktye/i:+/k.h
  * mathematics
   * ml - math library (libm)
   * mp - math primes (libprimesieve)
+
